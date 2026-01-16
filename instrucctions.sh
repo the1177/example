@@ -1,1 +1,1 @@
-ls
+cat FAKE-KEYS.cer
