@@ -1,2 +1,2 @@
-# example
-This is a dev example repo
+# Simple repo with instrucctions for dev team!
+Depending on your project, the instrucctions are normally there
